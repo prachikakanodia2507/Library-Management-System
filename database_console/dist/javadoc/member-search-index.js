@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"database_console","c":"DBConnect","l":"DBConnect()","url":"%3Cinit%3E()"},{"p":"database_console","c":"DBConnect","l":"main(String[])","url":"main(java.lang.String[])"}]
